@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710848570046",
+    "project_id": "qless-b4cdf",
+    "storage_bucket": "qless-b4cdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710848570046:android:eb89a499b4674cba7fb4ef",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxBoVdNXHIjzgET87PAtjwsczNnzKR_Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
