@@ -82,7 +82,7 @@ It allows users to browse food stalls, select items, manage cart, choose pickup 
 ---
 
 ## 🎥 Demo Video
-https://youtu.be/DIA7KRfuHsg
+[https://youtu.be/DIA7KRfuHsg](https://youtu.be/jYlFrNMwQtA)
 
 ---
 
